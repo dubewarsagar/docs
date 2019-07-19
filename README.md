@@ -1,2 +1,2 @@
 # docs
-sample documentation
+## Q Design Studio
